@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Souissi Mouhanned</h1>
 <h3 align="center">Software Engineer with Experience in Full Stack Development,</h3>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 - 🔭 I’m currently working on **TrendLabs Digital Solutions**
 
 - 🌱 I’m currently learning **AI Implementations**
