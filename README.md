@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Souissi Mouhanned</h1>
 <h3 align="center">Software Engineer with Experience in Full Stack Development</h3>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td valign="top" width="50%">
 
