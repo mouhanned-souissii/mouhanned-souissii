@@ -1,23 +1,26 @@
 <h1 align="center">Hi 👋, I'm Souissi Mouhanned</h1>
-<h3 align="center">Software Engineer with Experience in Full Stack Development,</h3>
-<div align="center">
-  <div style="display: inline-block; width: 45%; vertical-align: top; text-align: left;">
+<h3 align="center">Software Engineer with Experience in Full Stack Development</h3>
 
-🔭 I’m currently working on **TrendLabs Digital Solutions**  
-🌱 I’m currently learning **AI Implementations**  
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-💬 Ask me about **PHP, Java, and JavaScript**  
+🔭 I'm currently working on **TrendLabs Digital Solutions**
 
-📫 How to reach me **mouhannedsouissii@gmail.com**  
+🌱 I'm currently learning **AI Implementations**
 
-⚡ Fun fact: I enjoy backend development more than frontend  
+💬 Ask me about **PHP, Java, and JavaScript**
 
-  </div>
+📫 How to reach me **mouhannedsouissii@gmail.com**
 
-  <div style="display: inline-block; width: 45%; vertical-align: top;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-  </div>
-</div>
+⚡ Fun fact: I enjoy backend development more than frontend
+
+  </td>
+  <td valign="top" width="50%">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+  </td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
