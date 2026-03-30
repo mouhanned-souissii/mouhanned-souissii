@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Souissi Mouhanned</h1>
 <h3 align="center">Software Engineer with Experience in Full Stack Development</h3>
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top" width="50%">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%"/>
 
 🔭 I'm currently working on **TrendLabs Digital Solutions**
 
@@ -15,12 +13,7 @@
 
 ⚡ Fun fact: I enjoy backend development more than frontend
 
-  </td>
-  <td valign="top" width="50%">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
-  </td>
-  </tr>
-</table>
+<br clear="right"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
