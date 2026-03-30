@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Souissi Mouhanned</h1>
 <h3 align="center">Software Engineer with Experience in Full Stack Development,</h3>
-<!-- <p align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 - 🔭 I’m currently working on **TrendLabs Digital Solutions**
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mouhannedsouissii@gmail.com**
 
-- ⚡ Fun fact **I enjoy backend development more than frontend.** -->
+- ⚡ Fun fact **I enjoy backend development more than frontend.**
 <table>
   <tr>
     <td width="50%">
